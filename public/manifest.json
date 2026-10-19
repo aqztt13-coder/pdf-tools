@@ -1,0 +1,19 @@
+{
+  "name": "PDF عربي — أدوات PDF المجانية",
+  "short_name": "PDF عربي",
+  "description": "منصة عربية متكاملة ومجانية لأدوات معالجة وتعديل وتحويل وتنظيم وحماية مستندات PDF في المتصفح محلياً دون رفع الملفات.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#064e3b",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
